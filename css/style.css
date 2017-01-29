@@ -1,0 +1,13 @@
+#app { 
+  color: blue;
+  font-size: 30px;
+  text-align: center;
+  border: 1px solid green;
+  border-width: 600;
+  margin: 0 auto;
+}
+
+#fname {
+  color: green;
+  font-family: courier;
+}
